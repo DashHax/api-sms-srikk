@@ -1,0 +1,6 @@
+{
+    "host": "localhost",
+    "user":"root",
+    "pass": "1234",
+    "database": "sms_srikk"
+}
